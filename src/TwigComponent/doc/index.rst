@@ -1247,7 +1247,7 @@ when multiple other variant conditions are met.
     <twig:Alert color="red" size="md">
         <div>My content</div>
     </twig:Alert>
-    // class="alert bg-green text-lg font-bold"
+    // class="alert bg-red text-md font-bold"
 
 Default Variants
 ~~~~~~~~~~~~~~~~
@@ -1292,7 +1292,7 @@ If no variants match, you can define a default set of classes to apply:
     <twig:Alert color="red" size="lg">
         <div>My content</div>
     </twig:Alert>
-    // class="alert bg-red text-lg font-bold rounded-md"
+    // class="alert bg-red text-lg rounded-md"
 
 
 Test Helpers
